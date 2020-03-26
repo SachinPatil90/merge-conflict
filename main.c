@@ -12,6 +12,8 @@ Update Security()
  //updated security patch
 }
 
-
-
+Feature1 ()
+{	
+// Feature1 code
+}
 }
