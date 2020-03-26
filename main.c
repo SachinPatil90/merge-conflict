@@ -12,6 +12,10 @@ Update Security()
  //updated security patch
 }
 
+Feature2 ()
+{
+ // Sample code of Feature2
+}	
 
 
 }
